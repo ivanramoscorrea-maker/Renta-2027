@@ -1,0 +1,6 @@
+{
+  "name": "Estrategia Electoral Xalapa 2027",
+  "description": "Análisis de rentabilidad electoral, matriz FODA, simulador táctico de participación y mapeo de secciones con inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
